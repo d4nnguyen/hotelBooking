@@ -1,0 +1,14 @@
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+ .flash-message {
+  margin-top: 20px;
+}
+
+table > thead tr > td {
+  font-weight: bold;
+}
+
+.sidebar-profile {
+  width: 20px;
+}
